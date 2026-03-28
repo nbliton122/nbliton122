@@ -123,8 +123,8 @@ Available   : Open to Work ✅
 
 [![Email](https://img.shields.io/badge/Email-litonshakh5@gmail.com-1C2B3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:litonshakh5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/litonshakh)
-[![Phone](https://img.shields.io/badge/Phone-01602471543-00AEEF?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801602471543)
-[![Location](https://img.shields.io/badge/Location-Gaibandha%2C%20Bangladesh-34495E?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Sundarganj,Gaibandha,Bangladesh)
+[![Phone](https://img.shields.io/badge/Phone-01xxxxx-00AEEF?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:xxxxxxx)
+[![Location](https://img.shields.io/badge/Location-%2C%20Bangladesh-34495E?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=,Bangladesh)
 
 </div>
 
