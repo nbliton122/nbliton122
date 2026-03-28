@@ -18,7 +18,7 @@
 ```yaml
 Name        : Liton Shakh
 Role        : Computer Operator | Data Entry & Processing Specialist
-Location    : Sundarganj, Gaibandha, Bangladesh 🇧🇩
+Location    : Bangladesh 🇧🇩
 Experience  : 2.2 Years @ Quantanite Bangladesh Ltd.
 Email       : litonshakh5@gmail.com
 Available   : Open to Work ✅
@@ -123,8 +123,9 @@ Available   : Open to Work ✅
 
 [![Email](https://img.shields.io/badge/Email-litonshakh5@gmail.com-1C2B3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:litonshakh5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/litonshakh)
-[![Phone](https://img.shields.io/badge/Phone-01602471543-00AEEF?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801602471543)
-[![Location](https://img.shields.io/badge/Location-Gaibandha%2C%20Bangladesh-34495E?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Sundarganj,Gaibandha,Bangladesh)
+[![Telegram](https://img.shields.io/badge/Telegram-@johnsmit2-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/johnsmit2)
+[![Website](https://img.shields.io/badge/Website-liton--shakh.vercel.app-00AEEF?style=for-the-badge&logo=vercel&logoColor=white)](https://liton-shakh.vercel.app/)
+[![Location](https://img.shields.io/badge/Location-Bangladesh-34495E?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Bangladesh)
 
 </div>
 
