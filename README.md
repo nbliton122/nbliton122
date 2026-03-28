@@ -79,11 +79,11 @@ Available   : Open to Work ✅
 
 <div align="center">
 
-| 🏫 Degree | 📜 Certification 1 | 📜 Certification 2 |
+| 🎓 Degree | 📜 Certification 1 | 📜 Certification 2 |
 |:---------:|:-----------------:|:-----------------:|
 | **B.A. Pass** | **Generative AI &** | **Computer Office** |
-| Sundarganj D.W. College | **Prompt Engineering** | **Application** |
-| Second Class · 2021 | ChatGPT · AI Tools · 3 Months | MS Word · Excel · 3 Months |
+| Second Class · 2021 | **Prompt Engineering** | **Application** |
+| Bangladesh 🇧🇩 | ChatGPT · AI Tools · 3 Months | MS Word · Excel · 3 Months |
 
 </div>
 
